@@ -1,0 +1,11 @@
+{
+  "name": "node_refuse_handle",
+  "version": "1.0.0",
+  "description": "垃圾分类小程序后台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
